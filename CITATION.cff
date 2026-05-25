@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "CAST: Coordinated Agent Swarm Testing"
+message: "If you use CAST in research, please cite the original paper."
+type: software
+authors:
+  - family-names: Golston
+    given-names: Julie
+    affiliation: Scaffold Studios
+    email: hello@scaffoldstudios.com
+repository-code: "https://gitlab.com/scaffoldstudios/cast"
+url: "https://scaffoldstudios.com/cast"
+abstract: >-
+  CAST (Coordinated Agent Swarm Testing) is a methodology and open-source
+  framework that deploys 100 LLM-powered agents organized into five specialized
+  squads to perform structured static analysis of web application source code
+  as a cost-effective substitute for human beta testing.
+keywords:
+  - software testing
+  - multi-agent systems
+  - large language models
+  - beta testing
+  - static analysis
+  - LLM agents
+  - AI-assisted development
+license: Apache-2.0
+version: "1.0.0"
+date-released: "2026-05-24"
+preferred-citation:
+  type: article
+  title: "CAST: Coordinated Agent Swarm Testing as a Substitute for Human Beta Testing in Web Application Development"
+  authors:
+    - family-names: Golston
+      given-names: Julie
+      affiliation: Scaffold Studios
+  year: 2026
+  month: 5
+  # Add DOI here once Zenodo publishes:
+  # doi: "10.5281/zenodo.XXXXXXX"
+  # url: "https://zenodo.org/records/XXXXXXX"
