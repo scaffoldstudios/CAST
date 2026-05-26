@@ -36,6 +36,5 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0006-3431-2637"
   year: 2026
   month: 5
-  # Add DOI here once Zenodo publishes:
-  # doi: "10.5281/zenodo.XXXXXXX"
-  # url: "https://zenodo.org/records/XXXXXXX"
+  doi: "10.5281/zenodo.20388782"
+  url: "https://doi.org/10.5281/zenodo.20388782"

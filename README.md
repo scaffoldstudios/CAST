@@ -1,6 +1,9 @@
-# CAST — Coordinated Agent Swarm Testing
+# CAST - Coordinated Agent Swarm Testing
 
-Orchestrate a swarm of Claude AI agents to perform systematic code analysis on any codebase. Each agent brings a unique testing persona — from XSS hunters to memory leak detectives — working across 5 specialized squads to find bugs, security vulnerabilities, and code quality issues.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20388782.svg)](https://doi.org/10.5281/zenodo.20388782)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+Orchestrate a swarm of Claude AI agents to perform systematic code analysis on any codebase. Each agent brings a unique testing persona - from XSS hunters to memory leak detectives - working across 5 specialized squads to find bugs, security vulnerabilities, and code quality issues.
 
 **Free and open source.** Built for Claude (Anthropic's API). By [Scaffold Studios](https://scaffoldstudios.com/cast).
 
@@ -176,6 +179,23 @@ Multiple agents often find the same bug. CAST deduplicates using:
 
 Costs vary based on codebase size. Estimates assume claude-sonnet-4-20250514.
 
+## Citation
+
+If you use CAST in your research, please cite the paper:
+
+```bibtex
+@misc{golston2026cast,
+  author       = {Golston, Julie},
+  title        = {{CAST: Coordinated Agent Swarm Testing as a
+                   Substitute for Human Beta Testing in
+                   Web Application Development}},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20388782},
+  url          = {https://doi.org/10.5281/zenodo.20388782}
+}
+```
+
 ## License
 
-Apache 2.0 — See [LICENSE](LICENSE) and [NOTICE](NOTICE) for full terms.
+Apache 2.0 - See [LICENSE](LICENSE) and [NOTICE](NOTICE) for full terms.
