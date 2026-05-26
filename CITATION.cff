@@ -7,7 +7,8 @@ authors:
     given-names: Julie
     affiliation: Scaffold Studios
     email: hello@scaffoldstudios.com
-repository-code: "https://gitlab.com/scaffoldstudios/cast"
+    orcid: "https://orcid.org/0009-0006-3431-2637"
+repository-code: "https://github.com/scaffoldstudios/CAST"
 url: "https://scaffoldstudios.com/cast"
 abstract: >-
   CAST (Coordinated Agent Swarm Testing) is a methodology and open-source
@@ -32,6 +33,7 @@ preferred-citation:
     - family-names: Golston
       given-names: Julie
       affiliation: Scaffold Studios
+      orcid: "https://orcid.org/0009-0006-3431-2637"
   year: 2026
   month: 5
   # Add DOI here once Zenodo publishes:
