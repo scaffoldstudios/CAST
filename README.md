@@ -2,7 +2,7 @@
 
 Orchestrate a swarm of Claude AI agents to perform systematic code analysis on any codebase. Each agent brings a unique testing persona — from XSS hunters to memory leak detectives — working across 5 specialized squads to find bugs, security vulnerabilities, and code quality issues.
 
-**Free and open source.** Built by [Scaffold Studios](https://scaffoldstudios.com/cast).
+**Free and open source.** Built for Claude (Anthropic's API). By [Scaffold Studios](https://scaffoldstudios.com/cast).
 
 ## How It Works
 
@@ -38,6 +38,8 @@ npx cast-swarm --report
 ```
 
 ## Installation
+
+**Requires:** An [Anthropic API key](https://console.anthropic.com/) (`ANTHROPIC_API_KEY`)
 
 ```bash
 # Global install
